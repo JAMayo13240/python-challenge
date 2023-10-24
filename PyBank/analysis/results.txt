@@ -1,0 +1,6 @@
+Total Months: 86
+--------------------------------------
+$ 22564198.0
+$ 4448.127906976744
+Greatest Increase Month: Dec-16 (628522.0)
+Greatest Decrease Month: Feb-17 (-224669.0)
